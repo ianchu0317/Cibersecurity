@@ -1,0 +1,3 @@
+This should desactivate windows real time defender throught powershell
+I tried to use the module pyautogui, but it doesn't work, so i use pynput.
+I know that it worked for me in windows 10. 
