@@ -1,3 +1,4 @@
+#!/usr/bin/env python3 
 cipher = input("[+]Enter your string: ").strip()
 
 
