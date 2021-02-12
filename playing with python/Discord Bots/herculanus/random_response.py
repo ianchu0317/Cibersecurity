@@ -1,0 +1,1 @@
+troll = ["What do you want ?", "Hi bitch", "lol", "Feo", "Are you stupid ?"]
